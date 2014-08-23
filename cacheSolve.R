@@ -1,4 +1,8 @@
 
+##The below fucntion checks if the inverse of matrix is already computed 
+##If inverse aleady exists the it retruns that inverse 
+##else it computes the inverse and returns that inverse
+
 cacheSolve <- function(x, ...)
 {
 	##get the inverse of matrix
